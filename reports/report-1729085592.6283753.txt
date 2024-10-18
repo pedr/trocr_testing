@@ -1,0 +1,39 @@
+# Dataset IAM english phrases
+iam_result_small.txt
+Levenshtein distance : 8302
+WER                  : 0.31857092941998605
+---------
+iam_result_base.txt
+Levenshtein distance : 125764
+WER                  : 0.9850192173305381
+---------
+iam_result_large.txt
+Levenshtein distance : 6661
+WER                  : 0.3014937106918239
+---------
+# Dataset 19 images
+result_small.txt
+Levenshtein distance : 355
+WER                  : 1.0952380952380953
+---------
+result_base.txt
+Levenshtein distance : 108
+WER                  : 0.44047619047619047
+---------
+result_large.txt
+Levenshtein distance : 66
+WER                  : 0.3333333333333333
+---------
+# RIMES first 100 images
+rimes_result_small.txt
+Levenshtein distance : 1144
+WER                  : 0.6671850699844479
+---------
+rimes_result_base.txt
+Levenshtein distance : 1205
+WER                  : 0.6780715396578538
+---------
+rimes_result_large.txt
+Levenshtein distance : 990
+WER                  : 0.609642301710731
+---------

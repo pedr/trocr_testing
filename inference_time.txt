@@ -1,0 +1,9 @@
+RIMES base 100 first
+small Total time:  92.35413765907288
+base Total time:  460.9089500904083
+large Total time:  730.4948780536652
+
+AIM 100 images
+small Total time:  93.1335220336914
+base Total time:  435.1301736831665
+large Total time:  773.2838642597198
